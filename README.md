@@ -1,4 +1,4 @@
-# Car and Plane Detection Project
+# Detection Of Car and Plane
 
 ## Project Description
 
